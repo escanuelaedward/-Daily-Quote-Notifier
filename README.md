@@ -40,7 +40,7 @@ Use the 24 hour time format.
 python daily_quote.py --install 09:00
 
 ### Remove the daily task
-
+owershell -ExecutionPolicy Bypass -File .\scripts\uninstall_task.ps1
 
 ## How to add more quotes
 
